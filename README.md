@@ -51,13 +51,11 @@ Development Lead and Sole Software Engineer
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
 
-# Madden 20
-Madden 20 is a football sports game by EA Sports. Madden has won a number of awards at E3 including best sports game and best multiplayer game.
+# VR Escape Room
+This is an Escape Room created in XR within Unity using the Universal Render Pipeline.
 <br/>
 <br/>
-I interned at EA Sports in Orlando, FL for Summer 2019.
-<br/>
-<br/>
+
 <br/>
 <br/>
 
