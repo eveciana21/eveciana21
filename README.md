@@ -17,7 +17,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 - [Releasing your Buggy Code to the Wild](https://samuelarminana.com/index.php/2019/07/18/releasing-your-buggy-code-to-the-wild/)
 - [Beginning a New Project With a Team RIGHT](https://samuelarminana.com/index.php/2019/07/06/beginning-a-new-project-with-a-team-right/)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://samuelarminana.com/index.php/blog/)
+View more on my [website](https://medium.com/@eveciana21)
 
 ---
 ### 💾 My projects
