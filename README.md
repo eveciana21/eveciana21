@@ -29,7 +29,7 @@ This game was created for the "Jame Gam Christmas Edition" Game Jam.​
 <br/>
 <br/>
 
-Collaborated with a small team using Git to create this game from scratch in 6 days.
+Collaborated with a small team using Git.
 
 <br/>
 <br/>
