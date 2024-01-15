@@ -89,24 +89,21 @@ These level design projects were created to showcase the incredible features of 
 <br/>
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2018/11/3.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/UoEXuml.png" align="left" width="400px"/> 
 
-# Night Bear
-Night Bear is a 2D game that puts you in the shoes of a teddy bear with the one job of defending his child from the monster of the night.<br/>
+# Level Design URP
+These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<img src="https://samuelarminana.com/wp-content/uploads/2018/11/ss_205e2ce531240570866bf64c08f0f0ee4889d1dc.600x338.jpg" align="left" width="400px"/> 
-
-# Cave Brawlers
-Cave Brawlers is a 2d pixel action adventure game about a knight of a kingdom who has to rescue villagers from Cave Dwellers after a siege. Comedic story based game.<br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-View more on my [website](https://samuelarminana.com/index.php/blog/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+View more on my [website](https://eveciana21.wixsite.com/lobogames)
