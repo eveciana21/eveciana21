@@ -22,8 +22,6 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 ---
 ### 💾 My projects
 
-
-
 <img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
 # Christmas Game Jam
@@ -35,8 +33,7 @@ Collaborated with a small team using Git to create this game from scratch in 6 d
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 
