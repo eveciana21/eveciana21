@@ -2,7 +2,8 @@
 
 I'm a software engineer passionate about all things Unity, C#, XR, and game development.
 
-[<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Youtube-512.png"/>Youtube](https://www.youtube.com/channel/UCQNi86EZ55UtBWjI0VCxuhw)
+[<img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fitchiogames%2F&psig=AOvVaw1Kcfgk29j5t_jqNu__NDYa&ust=1705379371452000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj0nK_H3oMDFQAAAAAdAAAAABAH"/>Itch]([https://www.youtube.com/channel/UCQNi86EZ55UtBWjI0VCxuhw](https://elobo-games.itch.io/))
+
 
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/samuelarm/)
 
