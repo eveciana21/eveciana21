@@ -77,10 +77,10 @@ This game was created with the intent on demonstrating my ability to use Cinemac
 <br/>
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2018/11/4-1.jpg" align="left" width="400px"/> 
+<img src="https://i.imgur.com/RBRNHWb.png" align="left" width="400px"/> 
 
-# Junior League Sports
-Play three different sports all in one! Basketball, Hockey, and Soccer! Fully customizable teams and challenging enemies. Play with up to 2 players.
+# Level Design HDRP
+These level design projects were created to showcase the incredible features of the High Definition Render Pipeline and Universal Render Pipeline
 <br/>
 <br/>
 <br/>
