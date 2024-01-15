@@ -49,7 +49,7 @@ Development Lead and Sole Software Engineer
 
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
+<img src="https://i.imgur.com/xPx9TWf.png" align="left" width="400px"/> 
 
 # VR Escape Room
 This is an Escape Room created in XR within Unity using the Universal Render Pipeline.
