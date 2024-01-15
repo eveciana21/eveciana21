@@ -37,13 +37,15 @@ Collaborated with a small team using Git to create this game from scratch in 6 d
 
 
 
-<img src="https://i.imgur.com/pH53eL6.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
 
 # Galaxy Hero
 Galaxy Hero is an original 2D shoot em' up game created within Unity using C# to demonstrate my knowledge on creating a 2D game from scratch, including all of the music and SFX.
 <br/>
 <br/>
-Development Lead and Sole Software Engineer
+
+Collaborated with a small team using Git to create this game from scratch in 6 days.
+
 <br/>
 <br/>
 
