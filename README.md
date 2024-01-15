@@ -74,9 +74,7 @@ This game was created with the intent on demonstrating my ability to use Cinemac
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 
 
 <img src="https://i.imgur.com/RBRNHWb.png" align="left" width="400px"/> 
