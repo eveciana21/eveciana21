@@ -37,8 +37,7 @@ Collaborated with a small team using Git to create this game from scratch in 6 d
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2021/03/Walking.jpg" align="left" width="400px"/> 
