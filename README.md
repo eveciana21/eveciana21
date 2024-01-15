@@ -2,7 +2,7 @@
 
 I'm a software engineer passionate about all things Unity, C#, XR, and game development.
 
-[<img align="left" width="22px" src="[URL](https://static.itch.io/images/logo-black-new.svg)"/>Itch](https://elobo-games.itch.io/)
+[<img align="left" width="22px" src="https://static.itch.io/images/logo-black-new.svg"/>Itch](https://elobo-games.itch.io/)
 
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/samuelarm/)
 
