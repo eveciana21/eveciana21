@@ -47,8 +47,6 @@ Galaxy Hero is an original 2D shoot em' up game created within Unity using C#.
 Original music created as well.
 
 <br/>
-<br/>
-
 
 
 <img src="https://i.imgur.com/xPx9TWf.png" align="left" width="400px"/> 
@@ -62,10 +60,10 @@ This is an Escape Room created in XR within Unity using the Universal Render Pip
 <br/>
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2019/09/home.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
 
-# Gamedev HQ Filebase
-Filebase is a Unity Editor Extension that integrate’s GameDevHQ’s asset store into Unity. Pro GameDevHQ members are able to download and manage their assets all from one place. 
+# Galactic Defender
+This game was created with the intent on demonstrating my ability to use Cinemachine and Timeline using Unity 3D and C#.​
 <br/>
 <br/>
 <br/>
