@@ -38,7 +38,7 @@ Collaborated with a small team using Git.
 
 
 
-"C:\Users\eveci\Desktop\Game Screenshots\Polar Panic Screenshots\Gif4.gif"
+<img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
 # Galaxy Hero
 Galaxy Hero is an original 2D shoot em' up game created within Unity using C#.
 <br/>
