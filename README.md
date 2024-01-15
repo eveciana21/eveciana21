@@ -17,7 +17,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 - [Setting Up Gaze Interactions in VR](https://medium.com/@eveciana21/setting-up-gaze-interaction-40c10d3b3941)
 - [Adding Volumetric Fog](https://medium.com/@eveciana21/adding-fog-into-my-office-scene-42f2c9e96c8a)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://medium.com/@eveciana21)
+View more on my [website](https://eveciana21.wixsite.com/lobogames)
 
 ---
 ### 💾 My projects
