@@ -37,17 +37,16 @@ Collaborated with a small team using Git to create this game from scratch in 6 d
 
 
 
-<img src="https://samuelarminana.com/wp-content/uploads/2021/03/Walking.jpg" align="left" width="400px"/> 
+<img src="https://i.imgur.com/FGKlDfm.png" align="left" width="400px"/> 
 
-# LoK: Rebirth
-LoK:Rebirth is an action KOTOR-esque RPG being created by The Tribe.
+# Galaxy Hero
+Galaxy Hero is an original 2D shoot em' up game created within Unity using C# to demonstrate my knowledge on creating a 2D game from scratch, including all of the music and SFX.
 <br/>
 <br/>
-Development Lead and Sole Software Engineer for nearly 2 years during 2019-2021.
+Development Lead and Sole Software Engineer
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <img src="https://samuelarminana.com/wp-content/uploads/2019/07/mahomes.jpg" align="left" width="400px"/> 
