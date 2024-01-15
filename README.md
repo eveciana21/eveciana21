@@ -24,13 +24,15 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 
 
 
-<img src="http://samuelarminana.com/u/118ea36a1-2c07-46c8-8e3d-f8a49e0da4a8.png" align="left" width="400px"/> 
+<img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
-# Boddle
-Boddle is an interactive 3D math game that gets kids excited and motivated to learn and practice math! 
+# Christmas Game Jam
+This game was created for the "Jame Gam Christmas Edition" Game Jam.​
 <br/>
 <br/>
-I am currently working here as a Senior Unity Developer.
+
+Collaborated with a small team using Git to create this game from scratch in 6 days.
+
 <br/>
 <br/>
 <br/>
