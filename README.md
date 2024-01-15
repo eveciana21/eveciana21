@@ -11,11 +11,11 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Unity Editor’s Stages and Scenes](https://samuelarminana.com/index.php/2020/09/28/unity-editors-stages-and-scenes/)
-- [How to Integrate Trello and Discord](https://samuelarminana.com/index.php/2020/01/22/how-to-integrate-trello-and-discord/)
-- [Designing an Educational Game](https://samuelarminana.com/index.php/2019/11/12/designing-an-educational-game/)
-- [Releasing your Buggy Code to the Wild](https://samuelarminana.com/index.php/2019/07/18/releasing-your-buggy-code-to-the-wild/)
-- [Beginning a New Project With a Team RIGHT](https://samuelarminana.com/index.php/2019/07/06/beginning-a-new-project-with-a-team-right/)
+- [Legacy to New Input System](https://medium.com/@eveciana21/legacy-new-input-system-interactable-8b2da4011d43)
+- [C# Survival Guide: Lambda Expressions](https://medium.com/@eveciana21/c-survival-guide-lambda-expression-8a728b741c7e)
+- [Building VR Game on Android](https://medium.com/@eveciana21/building-your-vr-game-on-android-170c4321e358)
+- [Setting Up Gaze Interactions in VR](https://medium.com/@eveciana21/setting-up-gaze-interaction-40c10d3b3941)
+- [Adding Volumetric Fog](https://medium.com/@eveciana21/adding-fog-into-my-office-scene-42f2c9e96c8a)
 <!-- BLOG-POST-LIST:END -->
 View more on my [website](https://medium.com/@eveciana21)
 
