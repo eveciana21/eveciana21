@@ -28,13 +28,11 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 This game was created for the "Jame Gam Christmas Edition" Game Jam.​
 <br/>
 <br/>
+<br/>
+<br/>
 
 Collaborated with a small team using Git.
 
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
