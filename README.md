@@ -35,6 +35,10 @@ Collaborated with a small team using Git.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
