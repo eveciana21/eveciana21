@@ -27,10 +27,7 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 <br/>
 <br/>
 
-# Christmas Game Jam
-<br/>
-<br/>
-
+Christmas Game Jam
 This game was created for the "Jame Gam Christmas Edition" Game Jam.​
 
 
