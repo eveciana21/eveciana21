@@ -22,12 +22,14 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 ---
 ### 💾 My projects
 
-<br/>
-<br/>
 
 <img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
 # Christmas Game Jam
+<br/>
+<br/>
+<br/>
+<br/>
 This game was created for the "Jame Gam Christmas Edition" Game Jam.​
 <br/>
 <br/>
