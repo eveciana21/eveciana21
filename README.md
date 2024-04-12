@@ -24,10 +24,9 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 
 <img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
-<br/>
-<br/>
 
-Christmas Game Jam
+
+# Christmas Game Jam
 This game was created for the "Jame Gam Christmas Edition" Game Jam.​
 
 
@@ -42,7 +41,7 @@ Collaborated with a small team using Git.
 <img src="https://i.imgur.com/uaA2YE7.png" align="left" width="400px"/> 
 
 # Galaxy Hero
-Galaxy Hero is an original 2D shoot em' up game created within Unity using C#.
+Galaxy Hero is an original 2D shoot 'em up game created within Unity using C#.
 <br/>
 <br/>
 
@@ -67,7 +66,7 @@ This is an Escape Room created in XR within Unity using the Universal Render Pip
 <img src="https://i.imgur.com/GqTlUxf.png" align="left" width="400px"/> 
 
 # Galactic Defender
-This game was created with the intent on demonstrating my ability to use Cinemachine and Timeline using Unity 3D and C#.​
+This game was created with the intent of demonstrating my ability to use Cinemachine and Timeline using Unity 3D and C#.​
 <br/>
 <br/>
 <br/>
