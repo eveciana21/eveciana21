@@ -22,6 +22,34 @@ View more on my [website](https://eveciana21.wixsite.com/lobogames)
 ---
 ### 💾 My projects
 
+<img src="https://i.imgur.com/WhN1mac.png" align="left" width="400px"/>
+
+# Undead Redemption
+This game emphasizes my ability to use raycasts and create an enemy AI system
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<img src="https://i.imgur.com/1IbHnIc.png" align="left" width="400px"/>
+
+
+
+# My AR World
+Create a desktop oasis or place a war machine on your driveway in AR.
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <img src="https://i.imgur.com/tSyEpnJ.png" align="left" width="400px"/> 
 
 
